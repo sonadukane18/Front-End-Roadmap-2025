@@ -1,6 +1,6 @@
 <div align="center">
   <img src="img/front-end-roadmap.gif" alt="Front-End Development" />
-  <p><strong>Roadmap to becoming a Front-End Developer in 2024.</strong></p>
+  <p><strong>Roadmap to becoming a Front-End Developer in 2025.</strong></p>
 </div>
 
 ---
